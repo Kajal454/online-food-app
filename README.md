@@ -7,10 +7,6 @@ This is a README file for an Online Food Delivery Application that aims to creat
 
 The main objective of this application is to provide a platform where restaurant owners can create and list their food items along with their prices. Customers can sign up, view nearby restaurants, and place orders. Customers can select a payment method and make payments for their orders. Restaurant owners can accept orders and deliver them to customers.
 
-## Project Schema:
-![Online Food Delivery Application ReadMe](https://github.com/rameshy9891/sharp-head-9647/assets/119414002/e7dc2a80-bfc4-4049-a51a-f36850f33b63)
-
-
 ## Entities:
 
 The application consists of the following entities:
@@ -77,12 +73,3 @@ The Online Food Delivery Application utilizes the following technologies:
 - Frontend Technologies: HTML, CSS, JavaScript
 - Database: MySQL
 - Additional Libraries: Spring Security, Hibernate, Maven
-
-## Contributors:
-
-This project is being developed and maintained by 
-- Ramesh Yadav(TL) 
-- Salman Khan
-- Rohit
-- Nitish Mandal
-- Rushikesh
